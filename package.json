@@ -24,7 +24,7 @@
     "@angular/router": "~7.2.0",
     "angular-material-fileupload": "^2.0.0",
     "core-js": "^2.5.4",
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "ngx-material-file-input": "^1.1.1",
     "path": "^0.12.7",
     "rxjs": "~6.3.3",
